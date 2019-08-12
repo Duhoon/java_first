@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - trytry",
+            "request": "launch",
+            "mainClass": "trytry"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - repeat",
+            "request": "launch",
+            "mainClass": "repeat"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - condition",
+            "request": "launch",
+            "mainClass": "condition"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - SystemOutPrintln",
+            "request": "launch",
+            "mainClass": "SystemOutPrintln"
+        }
+    ]
+}
