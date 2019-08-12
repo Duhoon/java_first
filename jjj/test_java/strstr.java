@@ -12,5 +12,4 @@ public class strstr {
     System.out.printf("String substring is : " + str1.substring(10));
     System.out.printf("Return Value : " + String.valueOf(d));
     }
-    
 }
