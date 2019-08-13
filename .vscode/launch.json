@@ -2,6 +2,18 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - cbv",
+            "request": "launch",
+            "mainClass": "cbv"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - callbyvalue_ex",
+            "request": "launch",
+            "mainClass": "callbyvalue_ex"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Collection_ex",
             "request": "launch",
             "mainClass": "Collection_ex"
