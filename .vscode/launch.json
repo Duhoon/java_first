@@ -2,6 +2,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "CodeLens (Launch) - cbv",
             "request": "launch",
             "mainClass": "cbv"
@@ -14,7 +15,32 @@
         },
         {
             "type": "java",
+=======
+<<<<<<< HEAD
+            "name": "CodeLens (Launch) - callbyvalue",
+            "request": "launch",
+            "mainClass": "callbyvalue",
+            "projectName": "java_first_5853418c"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - collection_try",
+            "request": "launch",
+            "mainClass": "collection_try"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - collection",
+            "request": "launch",
+            "mainClass": "collection"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - hashmap",
+=======
+>>>>>>> 2bc169440430b489a4d1d6e0633b25b0ec15f274
             "name": "CodeLens (Launch) - Collection_ex",
+>>>>>>> f8a3b95a9d906587366b04068a3d96e68f35e5d7
             "request": "launch",
             "mainClass": "Collection_ex"
         },
