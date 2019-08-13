@@ -2,6 +2,7 @@
     "configurations": [
         {
             "type": "java",
+<<<<<<< HEAD
             "name": "CodeLens (Launch) - callbyvalue",
             "request": "launch",
             "mainClass": "callbyvalue",
@@ -22,38 +23,11 @@
         {
             "type": "java",
             "name": "CodeLens (Launch) - hashmap",
+=======
+            "name": "CodeLens (Launch) - Collection_ex",
+>>>>>>> f8a3b95a9d906587366b04068a3d96e68f35e5d7
             "request": "launch",
-            "mainClass": "hashmap"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - arraylist",
-            "request": "launch",
-            "mainClass": "arraylist"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - strstr",
-            "request": "launch",
-            "mainClass": "strstr"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - trytry",
-            "request": "launch",
-            "mainClass": "trytry"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - repeat",
-            "request": "launch",
-            "mainClass": "repeat"
-        },
-        {
-            "type": "java",
-            "name": "CodeLens (Launch) - condition",
-            "request": "launch",
-            "mainClass": "condition"
+            "mainClass": "Collection_ex"
         },
         {
             "type": "java",
